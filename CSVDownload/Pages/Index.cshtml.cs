@@ -10,7 +10,6 @@ namespace CSVDownload.Pages
     {
         public void OnGet()
         {
-            var x = 1;
         }
 
         public ActionResult OnPost()
